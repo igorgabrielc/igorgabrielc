@@ -11,7 +11,7 @@ Olá, sou um desenvolvedor fullstack apaixonado por tecnologia e sempre em busca
 - Bibliotecas e Frameworks: ReactJS
 - Versionamento: Git
 
-  ## Projetos Destacados
+## Projetos Destacados
 
 - [Projeto 1 - Monteiro e Rodrigues](https://igorgabrielc.github.io/monteiro/). -
   O projeto "Monteiro e Rodrigues - Sistema de Segurança" é um site desenvolvido para um cliente real, uma empresa especializada em soluções de segurança - Utilizando Javascript, CSS e HTML
@@ -19,12 +19,14 @@ Olá, sou um desenvolvedor fullstack apaixonado por tecnologia e sempre em busca
 - [Projeto 2 - Em breve..]
   Em construção de um aplicação completa.
 
-  ## Aprendizados em Andamento
+## Aprendizados em Andamento
 
-- ReactJS: Aprofundando conhecimento em React Hooks, Context API e gerenciamento de estado avançado.
-- PHP e Laravel: Explorando o desenvolvimento backend com PHP e o framework Laravel.
+Estou sempre buscando oportunidades para aprimorar minhas habilidades e conhecimentos técnicos:
 
- ## Contato
+- **ReactJS:** Aprofundando meu conhecimento em React Hooks e trabalhando em projetos para melhorar minhas habilidades no framework.
+- **Backend Development:** Estudando PHP e Laravel para expandir minha atuação no desenvolvimento fullstack.
+
+## Contato
 
 - Email: igor_gabrielc@hotmail.com
 - LinkedIn: [Igor Gabriel](https://www.linkedin.com/in/igorgabrielc/)
