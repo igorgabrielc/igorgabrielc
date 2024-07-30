@@ -4,12 +4,12 @@ Bem-vindo(a) ao meu perfil me chamo Igor Gabriel! Aqui estão algumas informaç�
 
 ## Sobre Mim
 
-Olá, sou um desenvolvedor fullstack apaixonado por tecnologia e sempre em busca de desafios. Com experiência sólida em JavaScript, HTML e CSS, tenho trabalhado em diversos projetos para criar experiências web incríveis. Além disso, estou em constante aprendizado, atualmente focado em aprimorar minhas habilidades em ReactJS, PHP e Laravel.
+Olá, sou um desenvolvedor fullstack. Com experiência em JavaScript, HTML e CSS,  Além disso, estou em constante aprendizado, atualmente focado em aprimorar minhas habilidades em NextJS, PostgreSQL, Supabase, tRCP
 
 ## Habilidades Técnicas
 - Linguagens: JavaScript (ES6+), HTML5, CSS3
-- Bibliotecas e Frameworks: ReactJS
-- Versionamento: Git
+- Bibliotecas e Frameworks: NextJS
+- Versionamento: Git e GitHub
 
 ## Projetos Destacados
 
@@ -23,9 +23,10 @@ Olá, sou um desenvolvedor fullstack apaixonado por tecnologia e sempre em busca
 
 Estou sempre buscando oportunidades para aprimorar minhas habilidades e conhecimentos técnicos:
 
-- **ReactJS:** Aprofundando meu conhecimento em React Hooks e trabalhando em projetos para melhorar minhas habilidades no framework.
-- **Backend Development:** Estudando PHP e Laravel para expandir minha atuação no desenvolvimento fullstack.
-
+- **NextJS:** Aprofundando meu conhecimento em NextJS e trabalhando em projetos para melhorar minhas habilidades no framework.
+- **SupaBase:** 
+- **tRPC:**
+- **PostgreSQL:**
 ## Contato
 
 - Email: igor_gabrielc@hotmail.com
